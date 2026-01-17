@@ -1,16 +1,13 @@
-Aadhaar Strategic Intelligence & Policy Portal (ASIPP) 🇮🇳
+**Aadhaar Strategic Intelligence & Policy Portal (ASIPP)** 🇮🇳
 
-
-
-[suspicious link removed]
 
 ASIPP is an end-to-end intelligent decision support system designed for the Ministry of Electronics and Information Technology (MeitY). It automates the extraction, cleaning, and analysis of Aadhaar enrolment and update datasets to provide real-time societal insights and policy simulation frameworks.
 
-📌 Problem Statement
+**📌 Problem Statement**
 
 To identify meaningful patterns, trends, anomalies, or predictive indicators within UIDAI's massive datasets and translate them into clear insights or solution frameworks that support informed decision-making and system improvements for the Government of India.
 
-🚀 Key Intelligence Features
+**🚀 Key Intelligence Features**
 
 1. Zero-Manual-Intervention (ZMI) Pipeline
 
@@ -44,14 +41,14 @@ Resource Allocation: Recommends shifting budgets from "New Enrolment" to "Update
 
 Mobile Van Deployment: Identifies geographical gaps in child biometric updates (Age 5/15) for targeted intervention.
 
-🎨 UI/UX Compliance
+**🎨 UI/UX Compliance**
 
 The portal is strictly built following the Digital Brand Identity for Ministries (DBIM) and GIGW standards.
 
 <img width="989" height="310" alt="Screenshot_17-Jan_22-15-52_23920" src="https://github.com/user-attachments/assets/43cfb36f-45f1-4851-a2c5-9883ca8f5cc1" />
 
 
-🛠️ Technical Stack
+**🛠️ Technical Stack**
 
 Framework: Streamlit (Python-based Portal Framework)
 
@@ -63,7 +60,7 @@ Visuals: Plotly Express (Interactive Infographics)
 
 Security: Integrated standard GOI color palette (#002b5c, #FF9933, #138808)
 
-💻 Setup & Installation
+**💻 Setup & Installation**
 
 Prerequisites
 
@@ -100,7 +97,7 @@ Launch the Portal:
 streamlit run app.py
 
 
-📊 Analytics Workflow
+**📊 Analytics Workflow**
 
 Ingest: System scans ./data for new archives.
 
@@ -109,8 +106,6 @@ Clean: AI-logic normalizes district names and resolves case-sensitivity.
 Analyze: Statistical models detect anomalies and calculate saturation.
 
 Strategize: The "Strategic Insights" tab generates human-readable policy advice based on data trends.
-
-⚖️ Disclaimer
 
 This project is developed as part of a Hackathon. The datasets processed are simulated/provided for research purposes. All UI components follow the DBIM Toolkit as of the latest version provided by the authorized government sources.
 

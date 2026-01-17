@@ -72,7 +72,7 @@ Installation Steps
 
 Clone the repository:
 
-git clone [https://github.com/](https://github.com/)[your-username]/Aadhaar-Intelligence-Portal.git
+git clone [https://github.com/](https://github.com/)frchaitanyaaa/Aadhaar-Intelligence-Portal.git
 cd Aadhaar-Intelligence-Portal
 
 
